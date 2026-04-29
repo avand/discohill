@@ -1,0 +1,821 @@
+{
+  "listingId": "42230765",
+  "fetchedAt": "2026-04-29T18:28:14.770Z",
+  "pageTitle": null,
+  "sharingTitle": "Cabin in Mariposa · ★4.97 · 1 bedroom · 2 beds · 1 private bath",
+  "propertyType": "Entire cabin",
+  "location": "Mariposa",
+  "personCapacity": 4,
+  "starRating": 4.97,
+  "reviewCount": 312,
+  "isGuestFavorite": true,
+  "coordinates": {
+    "lat": 37.5035,
+    "lng": -119.8177
+  },
+  "categoryRatings": {
+    "accuracy": 4.96,
+    "checkin": 4.98,
+    "cleanliness": 4.93,
+    "communication": 4.96,
+    "location": 4.89,
+    "value": 4.88
+  },
+  "description": [
+    {
+      "title": null,
+      "html": "About 1 hr from Yosemite and 20 min from downtown Mariposa, this cabin offers a place to relax and unwind. Exclusive access to the entire cabin, outdoor kitchen, and BBQ.<br /><br />“The stars from the jacuzzi were the best I’ve ever seen” - Leslie<br /><br />“Definitely one of the best Airbnbs out there” - Dulce<br /><br />“Possibly the comfiest bed I’ve slept in” - Alexis & Riley<br /><br />“Outdoor kitchen, hot tub, stars… an absolute dream!” - Delaram"
+    },
+    {
+      "title": "The space",
+      "html": "The cabin is fully remodeled with modern stainless steel appliances, propane-powered range, and granite counters. Heating and AC is at the ready, as well as high speed internet (25Mbps; cell service is spotty but WiFi calling works great!). Behind the house is an outdoor kitchen equipped with a BBQ, hot tub, and disco ball! On a clear night, you'll have an incredible view of the stars. 420 friendly but outside only, please."
+    },
+    {
+      "title": "Guest access",
+      "html": "You'll have the 1-bedroom cabin exclusively to yourself. The outdoor kitchen and BBQ is also exclusively for use of cabin guests. The hot tub is a shared amenity with guests in our neighboring Airbnb, however, it's rare that guests cross paths and, when they do, embrace it as an opportunity to meet fellow travelers, share tips about their travels, and make new friends."
+    },
+    {
+      "title": "Other things to note",
+      "html": "We keep the cabin squeaky clean and we disinfect between every guest. Please keep our community safe by complying with local county and state policies.<br /><br />Don't forget to pack your patience and sense of adventure. Living in the woods has its pitfalls from time to time: pests, power outages, and inclement weather, to name a few. We strive for every guest to have a perfect stay and are prepared for almost anything. Still, things do come up and we thank you in advance for your understanding."
+    }
+  ],
+  "highlights": [
+    {
+      "title": "40-min drive to Yosemite National Park",
+      "subtitle": "This home is near the national park.",
+      "type": "LISTING_NATIONAL_PARK"
+    },
+    {
+      "title": "Self check-in",
+      "subtitle": "Check yourself in with the keypad.",
+      "type": "LISTING_SELF_CHECKIN"
+    },
+    {
+      "title": "Comfy bed for better sleep",
+      "subtitle": "The room-darkening shades and extra bedding are loved by guests.",
+      "type": "LISTING_COMFY_BED_AMENITY"
+    }
+  ],
+  "sleeping": [
+    {
+      "title": "Bedroom",
+      "subtitle": "1 king bed",
+      "images": [
+        {
+          "url": "https://a0.muscache.com/im/pictures/87f98c7e-f06d-441e-a107-d107cffcdca9.jpg",
+          "caption": "The bedroom features a large king bed"
+        }
+      ]
+    },
+    {
+      "title": "Living room",
+      "subtitle": "1 sofa bed",
+      "images": [
+        {
+          "url": "https://a0.muscache.com/im/pictures/36e20a85-4f32-4491-b5a1-d0a402da6b52.jpg",
+          "caption": "The living room is comfortable, with a queen mattress tucked away in the couch (pictures of that later)"
+        }
+      ]
+    }
+  ],
+  "locationDetails": [
+    {
+      "title": "Neighborhood highlights",
+      "html": "This cabin is about 20 minutes from downtown Mariposa, which is full of cute shops and cafes. Grab a coffee at Moonbow, a bite to eat at 1850 Brewery, and a beer at The Alley (or Hideout if you're feeling adventurous). High Country Health Foods has vegetarian and vegan options and Pioneer Market can be your one-stop-shop for groceries and beverages. Our place is also about 20 minutes fro Oakhurst, where there's more restaurants and grocery stores. Depending on which way you come in, there's a grocery store on your way."
+    }
+  ],
+  "previewAmenities": [
+    {
+      "title": "Mountain view",
+      "available": true
+    },
+    {
+      "title": "Kitchen",
+      "available": true
+    },
+    {
+      "title": "Wifi – 21 Mbps",
+      "available": true
+    },
+    {
+      "title": "Dedicated workspace",
+      "available": true
+    },
+    {
+      "title": "Free parking on premises",
+      "available": true
+    },
+    {
+      "title": "Shared hot tub - available all year, open 24 hours",
+      "available": true
+    },
+    {
+      "title": "Pets allowed",
+      "available": true
+    },
+    {
+      "title": "27 inch TV with Roku",
+      "available": true
+    },
+    {
+      "title": "Free washer – In unit",
+      "available": true
+    },
+    {
+      "title": "Free dryer – In unit",
+      "available": true
+    }
+  ],
+  "amenityGroups": [
+    {
+      "title": "Scenic views",
+      "amenities": [
+        {
+          "title": "Mountain view",
+          "subtitle": null,
+          "available": true
+        }
+      ]
+    },
+    {
+      "title": "Bathroom",
+      "amenities": [
+        {
+          "title": "Hair dryer",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "Cleaning products",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "Shampoo",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "Conditioner",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "Body soap",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "Bidet",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "Hot water",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "Shower gel",
+          "subtitle": null,
+          "available": true
+        }
+      ]
+    },
+    {
+      "title": "Bedroom and laundry",
+      "amenities": [
+        {
+          "title": "Free washer – In unit",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "Free dryer – In unit",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "Essentials",
+          "subtitle": "Towels, bed sheets, soap, and toilet paper",
+          "available": true
+        },
+        {
+          "title": "Hangers",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "Bed linens",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "Extra pillows and blankets",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "Room-darkening shades",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "Safe",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "Clothing storage: closet and dresser",
+          "subtitle": null,
+          "available": true
+        }
+      ]
+    },
+    {
+      "title": "Entertainment",
+      "amenities": [
+        {
+          "title": "27 inch TV with Roku",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "Sound system",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "Books and reading material",
+          "subtitle": null,
+          "available": true
+        }
+      ]
+    },
+    {
+      "title": "Family",
+      "amenities": [
+        {
+          "title": "Board games",
+          "subtitle": null,
+          "available": true
+        }
+      ]
+    },
+    {
+      "title": "Heating and cooling",
+      "amenities": [
+        {
+          "title": "AC - split type ductless system",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "Ceiling fan",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "Heating",
+          "subtitle": null,
+          "available": true
+        }
+      ]
+    },
+    {
+      "title": "Home safety",
+      "amenities": [
+        {
+          "title": "Smoke alarm",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "Carbon monoxide alarm",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "Fire extinguisher",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "First aid kit",
+          "subtitle": null,
+          "available": true
+        }
+      ]
+    },
+    {
+      "title": "Internet and office",
+      "amenities": [
+        {
+          "title": "Wifi – 21 Mbps",
+          "subtitle": "Verified by speed test. Stream HD videos.",
+          "available": true
+        },
+        {
+          "title": "Dedicated workspace",
+          "subtitle": "In a common space",
+          "available": true
+        }
+      ]
+    },
+    {
+      "title": "Kitchen and dining",
+      "amenities": [
+        {
+          "title": "Kitchen",
+          "subtitle": "Space where guests can cook their own meals",
+          "available": true
+        },
+        {
+          "title": "Refrigerator",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "Microwave",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "Cooking basics",
+          "subtitle": "Pots and pans, oil, salt and pepper",
+          "available": true
+        },
+        {
+          "title": "Dishes and silverware",
+          "subtitle": "Bowls, chopsticks, plates, cups, etc.",
+          "available": true
+        },
+        {
+          "title": "Freezer",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "Stove",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "Oven",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "Hot water kettle",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "Coffee maker",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "Toaster",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "Baking sheet",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "Blender",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "Barbecue utensils",
+          "subtitle": "Grill, charcoal, bamboo skewers/iron skewers, etc.",
+          "available": true
+        },
+        {
+          "title": "Coffee",
+          "subtitle": null,
+          "available": true
+        }
+      ]
+    },
+    {
+      "title": "Location features",
+      "amenities": [
+        {
+          "title": "Private entrance",
+          "subtitle": "Separate street or building entrance",
+          "available": true
+        }
+      ]
+    },
+    {
+      "title": "Outdoor",
+      "amenities": [
+        {
+          "title": "Private patio or balcony",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "Private backyard – Not fully fenced",
+          "subtitle": "An open space on the property usually covered in grass",
+          "available": true
+        },
+        {
+          "title": "Outdoor furniture",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "Hammock",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "Outdoor dining area",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "Private outdoor kitchen",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "BBQ grill",
+          "subtitle": null,
+          "available": true
+        }
+      ]
+    },
+    {
+      "title": "Parking and facilities",
+      "amenities": [
+        {
+          "title": "Free parking on premises",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "Free street parking",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "Shared hot tub - available all year, open 24 hours",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "Single level home",
+          "subtitle": "No stairs in home",
+          "available": true
+        }
+      ]
+    },
+    {
+      "title": "Services",
+      "amenities": [
+        {
+          "title": "Pets allowed",
+          "subtitle": "Assistance animals are always allowed",
+          "available": true
+        },
+        {
+          "title": "Luggage dropoff allowed",
+          "subtitle": "For guests' convenience when they have early arrival or late departure",
+          "available": true
+        },
+        {
+          "title": "Long term stays allowed",
+          "subtitle": "Allow stay for 28 days or more",
+          "available": true
+        },
+        {
+          "title": "Self check-in",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "Keypad",
+          "subtitle": "Check yourself into the home with a door code",
+          "available": true
+        }
+      ]
+    },
+    {
+      "title": "Not included",
+      "amenities": [
+        {
+          "title": "Exterior security cameras on property",
+          "subtitle": "There are external security cameras that cover the outdoor spaces",
+          "available": false
+        }
+      ]
+    }
+  ],
+  "photos": [
+    {
+      "id": "967446827",
+      "url": "https://a0.muscache.com/im/pictures/36e20a85-4f32-4491-b5a1-d0a402da6b52.jpg",
+      "aspectRatio": 1.416814473217453,
+      "caption": "The living room is comfortable, with a queen mattress tucked away in the couch (pictures of that later)"
+    },
+    {
+      "id": "967445638",
+      "url": "https://a0.muscache.com/im/pictures/b7b7d738-56ba-4f1a-ab92-19cbd2003f27.jpg",
+      "aspectRatio": 1.4556631892697467,
+      "caption": "When you walk in the front door, you'll enter an open floor plan room, where the living room and kitchen share a warm, beautiful space"
+    },
+    {
+      "id": "967447357",
+      "url": "https://a0.muscache.com/im/pictures/12f43450-6bc7-4f5c-9b2f-c7475a7efefb.jpg",
+      "aspectRatio": 1.347124824684432,
+      "caption": "Another view of the couch with comfortable queen mattress tucked away inside. The chest to the left is full of bedding."
+    },
+    {
+      "id": "967451806",
+      "url": "https://a0.muscache.com/im/pictures/d0929d19-999f-4c39-a687-4defcc27445b.jpg",
+      "aspectRatio": 1.2506613756613756,
+      "caption": "The queen mattress unfolds from the couch and bedding is available in the wicker chest"
+    },
+    {
+      "id": "967452472",
+      "url": "https://a0.muscache.com/im/pictures/07ffcc3f-0dc0-4acf-bf09-7a5507f82198.jpg",
+      "aspectRatio": 0.9048473967684022,
+      "caption": "Board games if you get bored and WiFi is available for guests"
+    },
+    {
+      "id": "967450507",
+      "url": "https://a0.muscache.com/im/pictures/31e4bbda-b60d-4c72-bedc-3063d10a0e11.jpg",
+      "aspectRatio": 1.379894578313253,
+      "caption": "There's no official dining room at the cabin but this bar comfortably seats 4 at counter height stools"
+    },
+    {
+      "id": "967451179",
+      "url": "https://a0.muscache.com/im/pictures/25375991-352a-4fc0-b8da-45ff3b9d034c.jpg",
+      "aspectRatio": 1.2107046070460705,
+      "caption": "Stainless steel range"
+    },
+    {
+      "id": "967451047",
+      "url": "https://a0.muscache.com/im/pictures/007d665c-8d60-4da8-bf12-b789861ec354.jpg",
+      "aspectRatio": 1.4724349157733538,
+      "caption": "Enjoy coffee the easy way with a drip machine or take the time to make a pour over"
+    },
+    {
+      "id": "967454424",
+      "url": "https://a0.muscache.com/im/pictures/eddd0d62-5668-4344-96fd-e685eda57dd5.jpg",
+      "aspectRatio": 1.3922651933701657,
+      "caption": "Looking back out of the kitchen into the laundry room"
+    },
+    {
+      "id": "967447997",
+      "url": "https://a0.muscache.com/im/pictures/87f98c7e-f06d-441e-a107-d107cffcdca9.jpg",
+      "aspectRatio": 1.3381712626995645,
+      "caption": "The bedroom features a large king bed"
+    },
+    {
+      "id": "967452083",
+      "url": "https://a0.muscache.com/im/pictures/4b474f92-ad50-4f0a-83a9-1ae489aa87cd.jpg",
+      "aspectRatio": 1.639751552795031,
+      "caption": "From the corner of the bedroom you can see into the bathroom and the living room"
+    },
+    {
+      "id": "967448827",
+      "url": "https://a0.muscache.com/im/pictures/57035699-3e92-4e9f-8d5f-8e8ea7888900.jpg",
+      "aspectRatio": 1.3313631326191355,
+      "caption": "The view from the bathroom from the bedroom. Shampoo, conditioner, and soap are provided"
+    },
+    {
+      "id": "967448971",
+      "url": "https://a0.muscache.com/im/pictures/891d4316-c21d-4b48-8bf6-c8fdc7a579fd.jpg",
+      "aspectRatio": 1.2241742796907942,
+      "caption": "The bathroom also features a heated toilet seat and bidet"
+    },
+    {
+      "id": "967451448",
+      "url": "https://a0.muscache.com/im/pictures/47c3cab0-171e-4676-a81e-77b2acda40bb.jpg",
+      "aspectRatio": 1.4626579854461892,
+      "caption": "Come out the back door of the cabin to the outdoor kitchen—perfect for grilling and cooking outside"
+    },
+    {
+      "id": "1054123982",
+      "url": "https://a0.muscache.com/im/pictures/f76175ea-bee4-4a22-a007-016520396387.jpg",
+      "aspectRatio": 1.2809820732657833,
+      "caption": "Dinning in the outdoor kitchen "
+    },
+    {
+      "id": "967451590",
+      "url": "https://a0.muscache.com/im/pictures/a24180e7-a5b6-4d6a-b624-c4a9f79c488e.jpg",
+      "aspectRatio": 1.3160476524176594,
+      "caption": "Grill and fridge outside (the sink does not work at the moment)"
+    },
+    {
+      "id": "1148004225",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-42230765/original/e68f0b05-ec3d-41ce-b8bd-4762f661e849.png",
+      "aspectRatio": 1.352317880794702,
+      "caption": "If you're into it, we can also transform the outdoor space into your own personal night club!"
+    },
+    {
+      "id": "967451681",
+      "url": "https://a0.muscache.com/im/pictures/4902eba3-e628-4399-a854-c2715ea160bc.jpg",
+      "aspectRatio": 0.788681349316978,
+      "caption": "Laundry is available to guests through the bathroom at the back of the cabin"
+    },
+    {
+      "id": "1147941049",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-42230765/original/978cc7c5-c604-4c67-ac13-d76f88e4d64c.jpeg",
+      "aspectRatio": 1.3651099961404862,
+      "caption": "Exterior image 1"
+    },
+    {
+      "id": "1054132243",
+      "url": "https://a0.muscache.com/im/pictures/85e538e8-0805-48a4-a3c8-ae9a62c84605.jpg",
+      "aspectRatio": 1.414418042690294,
+      "caption": "Exterior image 2"
+    },
+    {
+      "id": "1054132897",
+      "url": "https://a0.muscache.com/im/pictures/03772428-5566-4bb3-9054-607d395dba80.jpg",
+      "aspectRatio": 1.4571738344777738,
+      "caption": "We get some snow from time to time! When we do, getting up the driveway can be tricky. But it doesn't usually stick for long."
+    },
+    {
+      "id": "1008098494",
+      "url": "https://a0.muscache.com/im/pictures/b9799f5c-d97b-40f9-ad8a-c92fb86ad096.jpg",
+      "aspectRatio": 1.3333333333333333,
+      "caption": "Soak in the hot tub by day or by night under the stars."
+    },
+    {
+      "id": "1008118366",
+      "url": "https://a0.muscache.com/im/pictures/4f81ebdb-a284-4a4f-b077-f19de17c535f.jpg",
+      "aspectRatio": 1,
+      "caption": "We helped a couple with a maternity photoshoot (ala iPhone) on the property."
+    },
+    {
+      "id": "967000140",
+      "url": "https://a0.muscache.com/im/pictures/3bf69ed6-e1df-45a8-8d83-b9a24bf1e4ab.jpg",
+      "aspectRatio": 1.3334489937543372,
+      "caption": "A birds-eye view"
+    }
+  ],
+  "heroPreviews": [
+    {
+      "id": "967446827",
+      "url": "https://a0.muscache.com/im/pictures/36e20a85-4f32-4491-b5a1-d0a402da6b52.jpg",
+      "caption": "The living room is comfortable, with a queen mattress tucked away in the couch (pictures of that later)"
+    },
+    {
+      "id": "1147941049",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-42230765/original/978cc7c5-c604-4c67-ac13-d76f88e4d64c.jpeg",
+      "caption": "Enjoy Yosemite in comfort and style image 2"
+    },
+    {
+      "id": "967450507",
+      "url": "https://a0.muscache.com/im/pictures/31e4bbda-b60d-4c72-bedc-3063d10a0e11.jpg",
+      "caption": "There's no official dining room at the cabin but this bar comfortably seats 4 at counter height stools"
+    },
+    {
+      "id": "967451179",
+      "url": "https://a0.muscache.com/im/pictures/25375991-352a-4fc0-b8da-45ff3b9d034c.jpg",
+      "caption": "Stainless steel range"
+    },
+    {
+      "id": "967451047",
+      "url": "https://a0.muscache.com/im/pictures/007d665c-8d60-4da8-bf12-b789861ec354.jpg",
+      "caption": "Enjoy coffee the easy way with a drip machine or take the time to make a pour over"
+    },
+    {
+      "id": "967445638",
+      "url": "https://a0.muscache.com/im/pictures/b7b7d738-56ba-4f1a-ab92-19cbd2003f27.jpg",
+      "caption": "When you walk in the front door, you'll enter an open floor plan room, where the living room and kitchen share a warm, beautiful space"
+    },
+    {
+      "id": "967447357",
+      "url": "https://a0.muscache.com/im/pictures/12f43450-6bc7-4f5c-9b2f-c7475a7efefb.jpg",
+      "caption": "Another view of the couch with comfortable queen mattress tucked away inside. The chest to the left is full of bedding."
+    },
+    {
+      "id": "967447997",
+      "url": "https://a0.muscache.com/im/pictures/87f98c7e-f06d-441e-a107-d107cffcdca9.jpg",
+      "caption": "The bedroom features a large king bed"
+    },
+    {
+      "id": "967452083",
+      "url": "https://a0.muscache.com/im/pictures/4b474f92-ad50-4f0a-83a9-1ae489aa87cd.jpg",
+      "caption": "From the corner of the bedroom you can see into the bathroom and the living room"
+    },
+    {
+      "id": "967451448",
+      "url": "https://a0.muscache.com/im/pictures/47c3cab0-171e-4676-a81e-77b2acda40bb.jpg",
+      "caption": "Come out the back door of the cabin to the outdoor kitchen—perfect for grilling and cooking outside"
+    },
+    {
+      "id": "1054123982",
+      "url": "https://a0.muscache.com/im/pictures/f76175ea-bee4-4a22-a007-016520396387.jpg",
+      "caption": "Dinning in the outdoor kitchen "
+    },
+    {
+      "id": "967451590",
+      "url": "https://a0.muscache.com/im/pictures/a24180e7-a5b6-4d6a-b624-c4a9f79c488e.jpg",
+      "caption": "Grill and fridge outside (the sink does not work at the moment)"
+    },
+    {
+      "id": "1008098494",
+      "url": "https://a0.muscache.com/im/pictures/b9799f5c-d97b-40f9-ad8a-c92fb86ad096.jpg",
+      "caption": "Soak in the hot tub by day or by night under the stars."
+    },
+    {
+      "id": "967451806",
+      "url": "https://a0.muscache.com/im/pictures/d0929d19-999f-4c39-a687-4defcc27445b.jpg",
+      "caption": "The queen mattress unfolds from the couch and bedding is available in the wicker chest"
+    },
+    {
+      "id": "967454424",
+      "url": "https://a0.muscache.com/im/pictures/eddd0d62-5668-4344-96fd-e685eda57dd5.jpg",
+      "caption": "Looking back out of the kitchen into the laundry room"
+    },
+    {
+      "id": "967448827",
+      "url": "https://a0.muscache.com/im/pictures/57035699-3e92-4e9f-8d5f-8e8ea7888900.jpg",
+      "caption": "The view from the bathroom from the bedroom. Shampoo, conditioner, and soap are provided"
+    },
+    {
+      "id": "967448971",
+      "url": "https://a0.muscache.com/im/pictures/891d4316-c21d-4b48-8bf6-c8fdc7a579fd.jpg",
+      "caption": "The bathroom also features a heated toilet seat and bidet"
+    },
+    {
+      "id": "967451681",
+      "url": "https://a0.muscache.com/im/pictures/4902eba3-e628-4399-a854-c2715ea160bc.jpg",
+      "caption": "Laundry is available to guests through the bathroom at the back of the cabin"
+    },
+    {
+      "id": "1008118366",
+      "url": "https://a0.muscache.com/im/pictures/4f81ebdb-a284-4a4f-b077-f19de17c535f.jpg",
+      "caption": "We helped a couple with a maternity photoshoot (ala iPhone) on the property."
+    },
+    {
+      "id": "967452472",
+      "url": "https://a0.muscache.com/im/pictures/07ffcc3f-0dc0-4acf-bf09-7a5507f82198.jpg",
+      "caption": "Board games if you get bored and WiFi is available for guests"
+    },
+    {
+      "id": "1054132243",
+      "url": "https://a0.muscache.com/im/pictures/85e538e8-0805-48a4-a3c8-ae9a62c84605.jpg",
+      "caption": "Enjoy Yosemite in comfort and style image 21"
+    },
+    {
+      "id": "967000140",
+      "url": "https://a0.muscache.com/im/pictures/3bf69ed6-e1df-45a8-8d83-b9a24bf1e4ab.jpg",
+      "caption": "A birds-eye view"
+    },
+    {
+      "id": "1054132897",
+      "url": "https://a0.muscache.com/im/pictures/03772428-5566-4bb3-9054-607d395dba80.jpg",
+      "caption": "We get some snow from time to time! When we do, getting up the driveway can be tricky. But it doesn't usually stick for long."
+    },
+    {
+      "id": "1148004225",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-42230765/original/e68f0b05-ec3d-41ce-b8bd-4762f661e849.png",
+      "caption": "If you're into it, we can also transform the outdoor space into your own personal night club!"
+    }
+  ],
+  "host": {
+    "name": "Avand",
+    "about": "I grew up in Boston, lived in Chicago, San Francisco, and now I live in Mariposa. I've lived in several cities across the US and visited a handful of countries. I enjoy the socializing, and the outdoors. I love music and DJ house music.",
+    "isSuperhost": true
+  },
+  "ratings": [
+    {
+      "label": "Cleanliness",
+      "value": "4.9"
+    },
+    {
+      "label": "Accuracy",
+      "value": "5.0"
+    },
+    {
+      "label": "Check-in",
+      "value": "5.0"
+    },
+    {
+      "label": "Communication",
+      "value": "5.0"
+    },
+    {
+      "label": "Location",
+      "value": "4.9"
+    },
+    {
+      "label": "Value",
+      "value": "4.9"
+    }
+  ],
+  "airbnbUrl": "https://www.airbnb.com/rooms/42230765"
+}

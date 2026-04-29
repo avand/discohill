@@ -1,0 +1,22 @@
+{
+  "name": "discohill",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Kaleidoscope Hill: marketing site for the Cabin and Barn Airbnbs.",
+  "type": "module",
+  "scripts": {
+    "fetch": "node scripts/fetch-listing.mjs",
+    "fetch:cabin": "node scripts/fetch-listing.mjs cabin",
+    "fetch:barn": "node scripts/fetch-listing.mjs barn",
+    "photos": "node scripts/download-photos.mjs",
+    "build": "node scripts/build.mjs",
+    "sync": "node scripts/fetch-listing.mjs && node scripts/download-photos.mjs && node scripts/build.mjs",
+    "serve": "python3 -m http.server 8000 --directory site"
+  },
+  "devDependencies": {
+    "playwright": "^1.59.1"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

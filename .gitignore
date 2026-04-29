@@ -1,2 +1,8 @@
 node_modules
 .DS_Store
+.env
+*.log
+
+# Original full-resolution photos kept locally as a backup; the site uses
+# the optimized versions downloaded from Airbnb's CDN into site/assets/images/.
+photos/

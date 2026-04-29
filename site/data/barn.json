@@ -1,0 +1,731 @@
+{
+  "listingId": "846298531171766483",
+  "fetchedAt": "2026-04-29T18:28:40.474Z",
+  "pageTitle": null,
+  "sharingTitle": "Barn in Mariposa · ★4.94 · 1 bedroom · 1 bed · 2 private baths",
+  "propertyType": "Barn",
+  "location": "Mariposa",
+  "personCapacity": 4,
+  "starRating": 4.94,
+  "reviewCount": 123,
+  "isGuestFavorite": true,
+  "coordinates": {
+    "lat": 37.5036,
+    "lng": -119.8177
+  },
+  "categoryRatings": {
+    "accuracy": 4.96,
+    "checkin": 4.97,
+    "cleanliness": 4.93,
+    "communication": 4.94,
+    "location": 4.87,
+    "value": 4.85
+  },
+  "description": [
+    {
+      "title": null,
+      "html": "Nestled in the Sierra Foothills, this reimagined barn is just about an hour away from two of Yosemite's entrances. Subtle yet vibrant home decor, a well equipped kitchen, strong WiFi, a dedicated workstation, and comfortable living room, make this place the perfect place to stay when visiting the area by yourself or with a partner."
+    },
+    {
+      "title": "The space",
+      "html": "The barn is the 2nd building on the property. The two-story space is totally private for your use but please be mindful that you may see other guests during your stay. The barn has an open kitchen and living room downstairs, as well as a bathroom with large bathtub. Upstairs, you'll find another bathroom with a shower, a queen bed, and a workspace."
+    },
+    {
+      "title": "Guest access",
+      "html": "You'll have the 1-bedroom barn exclusively to yourself. The outdoor kitchen and BBQ are for use of the guests of the neighboring building. Please respect their privacy and use of that space. The hot tub is a shared amenity and we encourage guests to make new friends, share travel tips, and be respectful of one another's privacy."
+    },
+    {
+      "title": "Other things to note",
+      "html": "We keep the barn squeaky clean and we disinfect between every guest. Please keep our community safe by complying with local county and state policies.<br /><br />Don't forget to pack your patience and sense of adventure. Living in the woods has its pitfalls from time to time: pests, power outages, and inclement weather, to name a few. We strive for every guest to have a perfect stay and are prepared for almost anything. Still, things do come up and we thank you in advance for your understanding."
+    }
+  ],
+  "highlights": [
+    {
+      "title": "40-min drive to Yosemite National Park",
+      "subtitle": "This home is near the national park.",
+      "type": "LISTING_NATIONAL_PARK"
+    },
+    {
+      "title": "Self check-in",
+      "subtitle": "Check yourself in with the keypad.",
+      "type": "LISTING_SELF_CHECKIN"
+    },
+    {
+      "title": "Peace and quiet",
+      "subtitle": "Guests say this home is in a quiet area.",
+      "type": "LISTING_REVIEW_AREA_VIBES"
+    }
+  ],
+  "sleeping": [],
+  "locationDetails": [
+    {
+      "title": "Neighborhood highlights",
+      "html": "This cabin is about 20 minutes from downtown Mariposa, which is full of cute shops and cafes. Grab a coffee at Moonbow, a bite to eat at 1850 Brewery, and a beer at The Alley (or Hideout if you're feeling adventurous). High Country Health Foods has vegetarian and vegan options and Pioneer Market can be your one-stop-shop for groceries and beverages. Our place is also about 20 minutes fro Oakhurst, where there's more restaurants and grocery stores. Depending on which way you come in, there's a grocery store on your way."
+    }
+  ],
+  "previewAmenities": [
+    {
+      "title": "Mountain view",
+      "available": true
+    },
+    {
+      "title": "Kitchen",
+      "available": true
+    },
+    {
+      "title": "Wifi",
+      "available": true
+    },
+    {
+      "title": "Dedicated workspace",
+      "available": true
+    },
+    {
+      "title": "Free parking on premises",
+      "available": true
+    },
+    {
+      "title": "Shared hot tub - available all year, open 24 hours",
+      "available": true
+    },
+    {
+      "title": "Pets allowed",
+      "available": true
+    },
+    {
+      "title": "TV",
+      "available": true
+    },
+    {
+      "title": "Air conditioning",
+      "available": true
+    },
+    {
+      "title": "Bathtub",
+      "available": true
+    }
+  ],
+  "amenityGroups": [
+    {
+      "title": "Scenic views",
+      "amenities": [
+        {
+          "title": "Mountain view",
+          "subtitle": null,
+          "available": true
+        }
+      ]
+    },
+    {
+      "title": "Bathroom",
+      "amenities": [
+        {
+          "title": "Bathtub",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "Hair dryer",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "Cleaning products",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "Shampoo",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "Conditioner",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "Body soap",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "Bidet",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "Hot water",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "Shower gel",
+          "subtitle": null,
+          "available": true
+        }
+      ]
+    },
+    {
+      "title": "Bedroom and laundry",
+      "amenities": [
+        {
+          "title": "Essentials",
+          "subtitle": "Towels, bed sheets, soap, and toilet paper",
+          "available": true
+        },
+        {
+          "title": "Bed linens",
+          "subtitle": "Cotton linens",
+          "available": true
+        },
+        {
+          "title": "Extra pillows and blankets",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "Room-darkening shades",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "Clothing storage: dresser",
+          "subtitle": null,
+          "available": true
+        }
+      ]
+    },
+    {
+      "title": "Entertainment",
+      "amenities": [
+        {
+          "title": "TV",
+          "subtitle": null,
+          "available": true
+        }
+      ]
+    },
+    {
+      "title": "Heating and cooling",
+      "amenities": [
+        {
+          "title": "Air conditioning",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "Heating - split type ductless system",
+          "subtitle": null,
+          "available": true
+        }
+      ]
+    },
+    {
+      "title": "Home safety",
+      "amenities": [
+        {
+          "title": "Smoke alarm",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "Carbon monoxide alarm",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "Fire extinguisher",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "First aid kit",
+          "subtitle": null,
+          "available": true
+        }
+      ]
+    },
+    {
+      "title": "Internet and office",
+      "amenities": [
+        {
+          "title": "Wifi",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "Dedicated workspace",
+          "subtitle": "In a common space",
+          "available": true
+        }
+      ]
+    },
+    {
+      "title": "Kitchen and dining",
+      "amenities": [
+        {
+          "title": "Kitchen",
+          "subtitle": "Space where guests can cook their own meals",
+          "available": true
+        },
+        {
+          "title": "Refrigerator",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "Cooking basics",
+          "subtitle": "Pots and pans, oil, salt and pepper",
+          "available": true
+        },
+        {
+          "title": "Dishes and silverware",
+          "subtitle": "Bowls, chopsticks, plates, cups, etc.",
+          "available": true
+        },
+        {
+          "title": "Coffee maker",
+          "subtitle": null,
+          "available": true
+        }
+      ]
+    },
+    {
+      "title": "Outdoor",
+      "amenities": [
+        {
+          "title": "Patio or balcony",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "Backyard",
+          "subtitle": "An open space on the property usually covered in grass",
+          "available": true
+        }
+      ]
+    },
+    {
+      "title": "Parking and facilities",
+      "amenities": [
+        {
+          "title": "Free parking on premises",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "Shared hot tub - available all year, open 24 hours",
+          "subtitle": null,
+          "available": true
+        }
+      ]
+    },
+    {
+      "title": "Services",
+      "amenities": [
+        {
+          "title": "Pets allowed",
+          "subtitle": "Assistance animals are always allowed",
+          "available": true
+        },
+        {
+          "title": "Self check-in",
+          "subtitle": null,
+          "available": true
+        },
+        {
+          "title": "Keypad",
+          "subtitle": "Check yourself into the home with a door code",
+          "available": true
+        }
+      ]
+    },
+    {
+      "title": "Not included",
+      "amenities": [
+        {
+          "title": "Exterior security cameras on property",
+          "subtitle": null,
+          "available": false
+        },
+        {
+          "title": "Washer",
+          "subtitle": null,
+          "available": false
+        },
+        {
+          "title": "Dryer",
+          "subtitle": null,
+          "available": false
+        }
+      ]
+    }
+  ],
+  "photos": [
+    {
+      "id": "1606001912",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/4714ea0b-0eed-4cf6-8670-bfd9611c6c18.jpeg",
+      "aspectRatio": 1.333214158026457,
+      "caption": "Living room image 1"
+    },
+    {
+      "id": "1606001888",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/c592f134-3542-42ff-b592-b785b00bbdb6.jpeg",
+      "aspectRatio": 1.3334519572953736,
+      "caption": "Living room image 2"
+    },
+    {
+      "id": "1606001840",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/61f73260-24f9-4cc1-b62e-9e12724511c8.jpeg",
+      "aspectRatio": 1.3347959631417288,
+      "caption": "Living room image 3"
+    },
+    {
+      "id": "1606001885",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/a2594745-18b1-438b-86d0-a60c010f0547.jpeg",
+      "aspectRatio": 1.3332044839582529,
+      "caption": "Living room image 4"
+    },
+    {
+      "id": "1606001897",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/4df40175-44f4-419c-b28a-cfe10c42e600.jpeg",
+      "aspectRatio": 1.3333333333333333,
+      "caption": "Living room image 5"
+    },
+    {
+      "id": "1606001899",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/52ecf0d4-d7b3-4061-aab7-c99054194cdc.jpeg",
+      "aspectRatio": 1.3335684062059239,
+      "caption": "Living room image 6"
+    },
+    {
+      "id": "1606001917",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/457cf3f1-c1c6-456e-9ac9-fd44d4fb91ca.jpeg",
+      "aspectRatio": 1.3333333333333333,
+      "caption": "Living room image 7"
+    },
+    {
+      "id": "1606001928",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/911fa392-7214-4032-ad9c-23ce911a2874.jpeg",
+      "aspectRatio": 1.3333333333333333,
+      "caption": "Full kitchen image 1"
+    },
+    {
+      "id": "1606001942",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/7b19e898-269f-41e2-a048-41877cfdd734.jpeg",
+      "aspectRatio": 1.3333333333333333,
+      "caption": "Full kitchen image 2"
+    },
+    {
+      "id": "1606001967",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/3b94ab9c-5dbe-4466-8948-55ecdea505d1.jpeg",
+      "aspectRatio": 1.3335729690869877,
+      "caption": "Full kitchen image 3"
+    },
+    {
+      "id": "1606001947",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/7626fe4a-57f4-407a-8518-3269ddf6406b.jpeg",
+      "aspectRatio": 1.3333333333333333,
+      "caption": "Dining area image 1"
+    },
+    {
+      "id": "1606001976",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/f34b3f5b-09f5-40bf-bff2-ea0bd9377c2a.jpeg",
+      "aspectRatio": 1.2928100034734282,
+      "caption": "Dining area image 2"
+    },
+    {
+      "id": "1606001977",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/1ae28401-328a-4bba-8ee6-652a690a2726.jpeg",
+      "aspectRatio": 1.3333333333333333,
+      "caption": "Dining area image 3"
+    },
+    {
+      "id": "1606001873",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/b5d578e7-5798-4549-b26c-2b7838b4aadf.jpeg",
+      "aspectRatio": 1.3333333333333333,
+      "caption": "Bedroom image 1"
+    },
+    {
+      "id": "1606001854",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/e55ab9e2-7c4e-40a1-928d-993b36e36f0f.jpeg",
+      "aspectRatio": 1.333210332103321,
+      "caption": "Bedroom image 2"
+    },
+    {
+      "id": "1606001829",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/42067372-d187-432c-a8a2-82c9dc03af9d.jpeg",
+      "aspectRatio": 1.3334573874209155,
+      "caption": "Bedroom image 3"
+    },
+    {
+      "id": "1606001922",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/00195fa0-c526-4f8a-94e5-ef4216c197a9.jpeg",
+      "aspectRatio": 1.3333333333333333,
+      "caption": "Bedroom image 4"
+    },
+    {
+      "id": "1606001972",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/f0b7c632-f656-4080-92c0-666b9a7e5a39.jpeg",
+      "aspectRatio": 1.3333333333333333,
+      "caption": "Bedroom image 5"
+    },
+    {
+      "id": "1606001822",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/366b4b89-8908-43ca-975e-4ce2532924d2.jpeg",
+      "aspectRatio": 1.3334647221127316,
+      "caption": "Full bathroom 1 image 1"
+    },
+    {
+      "id": "1606001870",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/4e1fa0e4-b216-4173-99f1-766271f5029f.jpeg",
+      "aspectRatio": 1.3333333333333333,
+      "caption": "Full bathroom 1 image 2"
+    },
+    {
+      "id": "1606001921",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/7d516551-0c03-4dd0-812e-f2eb08431277.jpeg",
+      "aspectRatio": 1.3336849507735584,
+      "caption": "Full bathroom 1 image 3"
+    },
+    {
+      "id": "1606001952",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/26720a05-c921-433f-b34d-08661c9b2506.jpeg",
+      "aspectRatio": 1.3333333333333333,
+      "caption": "Full bathroom 1 image 4"
+    },
+    {
+      "id": "1606001973",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/ebb58956-8f81-47e9-bd7b-2ad6f05517e2.jpeg",
+      "aspectRatio": 1.370962257735464,
+      "caption": "Full bathroom 2 image 1"
+    },
+    {
+      "id": "1606001821",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/03f172f1-2b0d-435c-88ee-22afb37a4b1e.jpeg",
+      "aspectRatio": 1.33475935828877,
+      "caption": "Workspace image 1"
+    },
+    {
+      "id": "1606001851",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/c12f4af2-3c63-4e4d-9e76-fb4b97c72512.jpeg",
+      "aspectRatio": 1.3333333333333333,
+      "caption": "Balcony image 1"
+    },
+    {
+      "id": "1606001830",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/6c385f3b-3c34-4c6b-be29-ad1c5d670c89.jpeg",
+      "aspectRatio": 1.3334534967555876,
+      "caption": "Exterior image 1"
+    },
+    {
+      "id": "1606001978",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/fe8c2f95-7764-42c5-8171-5d3c3af8e04b.jpeg",
+      "aspectRatio": 1.3333333333333333,
+      "caption": "Exterior image 2"
+    },
+    {
+      "id": "1606001904",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/0b97d272-20a7-4fd0-850a-0fbcada9cf21.jpeg",
+      "aspectRatio": 1.3333333333333333,
+      "caption": "Additional photos image 1"
+    },
+    {
+      "id": "1606001937",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/633fcf18-8b06-4a93-8f63-5d179017daf5.jpeg",
+      "aspectRatio": 1.3333333333333333,
+      "caption": "Additional photos image 2"
+    },
+    {
+      "id": "1606001941",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/c8244b21-eea5-443f-8774-599372d7e9c8.jpeg",
+      "aspectRatio": 1.3333333333333333,
+      "caption": "Additional photos image 3"
+    }
+  ],
+  "heroPreviews": [
+    {
+      "id": "1606001912",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/4714ea0b-0eed-4cf6-8670-bfd9611c6c18.jpeg",
+      "caption": "Giddy up to Yosemite image 1"
+    },
+    {
+      "id": "1606001888",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/c592f134-3542-42ff-b592-b785b00bbdb6.jpeg",
+      "caption": "Giddy up to Yosemite image 2"
+    },
+    {
+      "id": "1606001873",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/b5d578e7-5798-4549-b26c-2b7838b4aadf.jpeg",
+      "caption": "Giddy up to Yosemite image 3"
+    },
+    {
+      "id": "1606001854",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/e55ab9e2-7c4e-40a1-928d-993b36e36f0f.jpeg",
+      "caption": "Giddy up to Yosemite image 4"
+    },
+    {
+      "id": "1606001829",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/42067372-d187-432c-a8a2-82c9dc03af9d.jpeg",
+      "caption": "Giddy up to Yosemite image 5"
+    },
+    {
+      "id": "1606001821",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/03f172f1-2b0d-435c-88ee-22afb37a4b1e.jpeg",
+      "caption": "Giddy up to Yosemite image 6"
+    },
+    {
+      "id": "1606001822",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/366b4b89-8908-43ca-975e-4ce2532924d2.jpeg",
+      "caption": "Giddy up to Yosemite image 7"
+    },
+    {
+      "id": "1606001830",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/6c385f3b-3c34-4c6b-be29-ad1c5d670c89.jpeg",
+      "caption": "Giddy up to Yosemite image 8"
+    },
+    {
+      "id": "1606001840",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/61f73260-24f9-4cc1-b62e-9e12724511c8.jpeg",
+      "caption": "Giddy up to Yosemite image 9"
+    },
+    {
+      "id": "1606001851",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/c12f4af2-3c63-4e4d-9e76-fb4b97c72512.jpeg",
+      "caption": "Giddy up to Yosemite image 10"
+    },
+    {
+      "id": "1606001870",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/4e1fa0e4-b216-4173-99f1-766271f5029f.jpeg",
+      "caption": "Giddy up to Yosemite image 11"
+    },
+    {
+      "id": "1606001885",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/a2594745-18b1-438b-86d0-a60c010f0547.jpeg",
+      "caption": "Giddy up to Yosemite image 12"
+    },
+    {
+      "id": "1606001897",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/4df40175-44f4-419c-b28a-cfe10c42e600.jpeg",
+      "caption": "Giddy up to Yosemite image 13"
+    },
+    {
+      "id": "1606001899",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/52ecf0d4-d7b3-4061-aab7-c99054194cdc.jpeg",
+      "caption": "Giddy up to Yosemite image 14"
+    },
+    {
+      "id": "1606001904",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/0b97d272-20a7-4fd0-850a-0fbcada9cf21.jpeg",
+      "caption": "Giddy up to Yosemite image 15"
+    },
+    {
+      "id": "1606001917",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/457cf3f1-c1c6-456e-9ac9-fd44d4fb91ca.jpeg",
+      "caption": "Giddy up to Yosemite image 16"
+    },
+    {
+      "id": "1606001921",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/7d516551-0c03-4dd0-812e-f2eb08431277.jpeg",
+      "caption": "Giddy up to Yosemite image 17"
+    },
+    {
+      "id": "1606001922",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/00195fa0-c526-4f8a-94e5-ef4216c197a9.jpeg",
+      "caption": "Giddy up to Yosemite image 18"
+    },
+    {
+      "id": "1606001928",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/911fa392-7214-4032-ad9c-23ce911a2874.jpeg",
+      "caption": "Giddy up to Yosemite image 19"
+    },
+    {
+      "id": "1606001937",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/633fcf18-8b06-4a93-8f63-5d179017daf5.jpeg",
+      "caption": "Giddy up to Yosemite image 20"
+    },
+    {
+      "id": "1606001941",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/c8244b21-eea5-443f-8774-599372d7e9c8.jpeg",
+      "caption": "Giddy up to Yosemite image 21"
+    },
+    {
+      "id": "1606001942",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/7b19e898-269f-41e2-a048-41877cfdd734.jpeg",
+      "caption": "Giddy up to Yosemite image 22"
+    },
+    {
+      "id": "1606001947",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/7626fe4a-57f4-407a-8518-3269ddf6406b.jpeg",
+      "caption": "Giddy up to Yosemite image 23"
+    },
+    {
+      "id": "1606001952",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/26720a05-c921-433f-b34d-08661c9b2506.jpeg",
+      "caption": "Giddy up to Yosemite image 24"
+    },
+    {
+      "id": "1606001967",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/3b94ab9c-5dbe-4466-8948-55ecdea505d1.jpeg",
+      "caption": "Giddy up to Yosemite image 25"
+    },
+    {
+      "id": "1606001972",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/f0b7c632-f656-4080-92c0-666b9a7e5a39.jpeg",
+      "caption": "Giddy up to Yosemite image 26"
+    },
+    {
+      "id": "1606001973",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/ebb58956-8f81-47e9-bd7b-2ad6f05517e2.jpeg",
+      "caption": "Giddy up to Yosemite image 27"
+    },
+    {
+      "id": "1606001976",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/f34b3f5b-09f5-40bf-bff2-ea0bd9377c2a.jpeg",
+      "caption": "Giddy up to Yosemite image 28"
+    },
+    {
+      "id": "1606001977",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/1ae28401-328a-4bba-8ee6-652a690a2726.jpeg",
+      "caption": "Giddy up to Yosemite image 29"
+    },
+    {
+      "id": "1606001978",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-846298531171766483/original/fe8c2f95-7764-42c5-8171-5d3c3af8e04b.jpeg",
+      "caption": "Giddy up to Yosemite image 30"
+    }
+  ],
+  "host": {
+    "name": "Avand",
+    "about": "I grew up in Boston, lived in Chicago, San Francisco, and now I live in Mariposa. I've lived in several cities across the US and visited a handful of countries. I enjoy the socializing, and the outdoors. I love music and DJ house music.",
+    "isSuperhost": true
+  },
+  "ratings": [
+    {
+      "label": "Cleanliness",
+      "value": "4.9"
+    },
+    {
+      "label": "Accuracy",
+      "value": "5.0"
+    },
+    {
+      "label": "Check-in",
+      "value": "5.0"
+    },
+    {
+      "label": "Communication",
+      "value": "4.9"
+    },
+    {
+      "label": "Location",
+      "value": "4.9"
+    },
+    {
+      "label": "Value",
+      "value": "4.8"
+    }
+  ],
+  "airbnbUrl": "https://www.airbnb.com/rooms/846298531171766483"
+}
