@@ -208,12 +208,23 @@ function renderGallery(slug, photos, label) {
 </div>`;
 }
 
+// Manual overrides for highlights — keyed by Airbnb's highlight `type`. Used to
+// correct or augment the data Airbnb returns. Re-running fetch-listing won't
+// clobber these because they're applied at build time.
+const HIGHLIGHT_OVERRIDES = {
+  LISTING_NATIONAL_PARK: {
+    title: "About an hour to Yosemite's West entrance",
+    subtitle: "Also about an hour to the South entrance.",
+  },
+};
+
 function renderHighlights(highlights) {
   if (!highlights || highlights.length === 0) return "";
+  const overridden = highlights.map((h) => ({ ...h, ...(HIGHLIGHT_OVERRIDES[h.type] || {}) }));
   return `
 <section>
   <div class="highlights">
-    ${highlights
+    ${overridden
       .map(
         (h) => `
     <div class="highlight">
@@ -233,7 +244,7 @@ function renderDescription(items) {
   if (!items || items.length === 0) return "";
   return `
 <section>
-  <h2>About this place</h2>
+  <h2>About</h2>
   ${items
     .map(
       (item) => `
@@ -290,7 +301,7 @@ function renderAmenities(groups) {
 
   return `
 <section>
-  <h2>What this place offers</h2>
+  <h2>Amenities</h2>
   ${preview.map(renderGroup).join("")}
   ${
     allGroups.length > preview.length
@@ -298,7 +309,7 @@ function renderAmenities(groups) {
   <div class="modal modal--reviews" id="amenities-modal">
     <button class="modal__close" type="button" data-modal-close>×</button>
     <div class="modal__inner">
-      <h2 style="margin-bottom: 24px">What this place offers</h2>
+      <h2 style="margin-bottom: 24px">Amenities</h2>
       ${allGroups.map(renderGroup).join("")}
     </div>
   </div>`
@@ -316,7 +327,7 @@ function renderRatings(ratings) {
         (r) => `
     <div class="reviews-summary__row">
       <span class="label">${escapeHtml(r.label)}</span>
-      <span class="value">${escapeHtml(String(r.value))}</span>
+      <span class="value">★ ${escapeHtml(String(r.value))}</span>
     </div>`,
       )
       .join("")}
@@ -355,13 +366,10 @@ function renderReviews(data, reviews) {
   if (!reviews || reviews.length === 0) return "";
   const PREVIEW_COUNT = 6;
   const preview = reviews.slice(0, PREVIEW_COUNT);
+  const reviewsHeading = `★ ${data.starRating ?? "—"} · ${data.reviewCount ?? reviews.length} Reviews`;
   return `
 <section id="reviews">
-  <div class="reviews-overall">
-    <span class="star">★ ${data.starRating ?? "—"}</span>
-    <small>· ${data.reviewCount ?? reviews.length} reviews</small>
-    ${data.isGuestFavorite ? `<span class="badge" style="margin-left:8px">Guest favorite</span>` : ""}
-  </div>
+  <h2>${escapeHtml(reviewsHeading)}</h2>
   ${renderRatings(data.ratings)}
   <div class="reviews-list">
     ${preview.map((r) => renderReview(r, { clamp: true })).join("")}
@@ -372,7 +380,7 @@ function renderReviews(data, reviews) {
   <div class="modal modal--reviews" id="reviews-modal">
     <button class="modal__close" type="button" data-modal-close>×</button>
     <div class="modal__inner">
-      <h2 style="margin-bottom: 24px">★ ${data.starRating ?? "—"} · ${reviews.length} reviews</h2>
+      <h2 style="margin-bottom: 24px">${escapeHtml(reviewsHeading)}</h2>
       <div class="reviews-list">
         ${reviews.map((r) => renderReview(r, { clamp: false })).join("")}
       </div>
@@ -391,7 +399,7 @@ function renderBookCard(data) {
   return `
 <aside class="book-card">
   <p class="book-card__price">Direct booking unavailable — reserve through Airbnb to keep your stay covered by their guest protections.</p>
-  <a class="book-card__cta" href="${escapeHtml(data.airbnbUrl)}" target="_blank" rel="noopener">Book on Airbnb</a>
+  <a class="book-card__cta" href="${escapeHtml(data.airbnbUrl)}" target="_blank" rel="noopener">Reserve on Airbnb</a>
   <p class="book-card__note">You'll see real-time availability and pricing on Airbnb.</p>
   <div class="book-card__highlights">
     ${features.map((f) => `<div class="book-card__highlight">${f}</div>`).join("")}
@@ -403,7 +411,7 @@ function renderMobileBookBar(data) {
   return `
 <div class="mobile-book-bar">
   <div class="mobile-book-bar__price"><strong>${escapeHtml(data.starRating ? `★ ${data.starRating}` : "Available")}</strong> · ${data.reviewCount ?? ""} reviews</div>
-  <a class="mobile-book-bar__cta" href="${escapeHtml(data.airbnbUrl)}" target="_blank" rel="noopener">Book on Airbnb</a>
+  <a class="mobile-book-bar__cta" href="${escapeHtml(data.airbnbUrl)}" target="_blank" rel="noopener">Reserve on Airbnb</a>
 </div>`;
 }
 
@@ -526,22 +534,12 @@ ${renderHeader()}
     <a href="#reviews">${data.reviewCount ?? reviewsFile.count} reviews</a>
     <span class="dot">·</span>
     <span>${escapeHtml(data.location || "Mariposa, California")}</span>
-    ${data.isGuestFavorite ? `<span class="badge">Guest favorite</span>` : ""}
   </div>
   ${renderGallery(slug, photosFile, label)}
   <div class="listing__body">
     <div class="listing__main">
       <section>
-        <h2>Entire ${escapeHtml(data.propertyType?.replace(/^Entire /i, "") || "place")}</h2>
         <p class="summary__line">${escapeHtml(summaryLine(data))}</p>
-        ${
-          data.host
-            ? `<div class="host-blurb">
-                Hosted by ${escapeHtml(data.host.name)}
-                ${data.host.isSuperhost ? `<span class="superhost">★ Superhost</span>` : ""}
-              </div>`
-            : ""
-        }
       </section>
       ${renderHighlights(data.highlights)}
       ${renderDescription(data.description)}
@@ -602,7 +600,7 @@ async function buildHomepage() {
     <h1 class="home__title">Kaleidoscope Hill</h1>
     <p class="home__subtitle">
       Two private stays in the Sierra Foothills of Mariposa, California &mdash;
-      about an hour from the south entrance of Yosemite National Park.
+      about an hour from the West &amp; South entrances of Yosemite National Park.
     </p>
 
     <div class="home__choices">
