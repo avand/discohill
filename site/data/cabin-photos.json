@@ -1,122 +1,182 @@
 [
   {
     "file": "assets/images/cabin/01.jpg",
-    "caption": "The living room is comfortable, with a queen mattress tucked away in the couch (pictures of that later)",
-    "aspectRatio": 1.416814473217453
+    "caption": "Living room image 1",
+    "aspectRatio": 1.7767653758542141
   },
   {
     "file": "assets/images/cabin/02.jpg",
-    "caption": "When you walk in the front door, you'll enter an open floor plan room, where the living room and kitchen share a warm, beautiful space",
-    "aspectRatio": 1.4556631892697467
+    "caption": "Living room image 2",
+    "aspectRatio": 1.7767653758542141
   },
   {
     "file": "assets/images/cabin/03.jpg",
-    "caption": "Another view of the couch with comfortable queen mattress tucked away inside. The chest to the left is full of bedding.",
-    "aspectRatio": 1.347124824684432
+    "caption": "Living room image 3",
+    "aspectRatio": 1.7767653758542141
   },
   {
     "file": "assets/images/cabin/04.jpg",
-    "caption": "The queen mattress unfolds from the couch and bedding is available in the wicker chest",
-    "aspectRatio": 1.2506613756613756
+    "caption": "Living room image 4",
+    "aspectRatio": 1.7767653758542141
   },
   {
     "file": "assets/images/cabin/05.jpg",
-    "caption": "Board games if you get bored and WiFi is available for guests",
-    "aspectRatio": 0.9048473967684022
+    "caption": "Living room image 5",
+    "aspectRatio": 1.7767653758542141
   },
   {
     "file": "assets/images/cabin/06.jpg",
-    "caption": "There's no official dining room at the cabin but this bar comfortably seats 4 at counter height stools",
-    "aspectRatio": 1.379894578313253
+    "caption": "Living room image 6",
+    "aspectRatio": 1.7767653758542141
   },
   {
     "file": "assets/images/cabin/07.jpg",
-    "caption": "Stainless steel range",
-    "aspectRatio": 1.2107046070460705
+    "caption": "Living room image 7",
+    "aspectRatio": 1.7767653758542141
   },
   {
     "file": "assets/images/cabin/08.jpg",
-    "caption": "Enjoy coffee the easy way with a drip machine or take the time to make a pour over",
-    "aspectRatio": 1.4724349157733538
+    "caption": "Living room image 8",
+    "aspectRatio": 1.7767653758542141
   },
   {
     "file": "assets/images/cabin/09.jpg",
-    "caption": "Looking back out of the kitchen into the laundry room",
-    "aspectRatio": 1.3922651933701657
+    "caption": "Full kitchen image 1",
+    "aspectRatio": 1.7767653758542141
   },
   {
     "file": "assets/images/cabin/10.jpg",
-    "caption": "The bedroom features a large king bed",
-    "aspectRatio": 1.3381712626995645
+    "caption": "Full kitchen image 2",
+    "aspectRatio": 1.7767653758542141
   },
   {
     "file": "assets/images/cabin/11.jpg",
-    "caption": "From the corner of the bedroom you can see into the bathroom and the living room",
-    "aspectRatio": 1.639751552795031
+    "caption": "Full kitchen image 3",
+    "aspectRatio": 1.7777134587554269
   },
   {
     "file": "assets/images/cabin/12.jpg",
-    "caption": "The view from the bathroom from the bedroom. Shampoo, conditioner, and soap are provided",
-    "aspectRatio": 1.3313631326191355
+    "caption": "Full kitchen image 4",
+    "aspectRatio": 1.7767653758542141
   },
   {
     "file": "assets/images/cabin/13.jpg",
-    "caption": "The bathroom also features a heated toilet seat and bidet",
-    "aspectRatio": 1.2241742796907942
+    "caption": "Full kitchen image 5",
+    "aspectRatio": 1.7767653758542141
   },
   {
     "file": "assets/images/cabin/14.jpg",
-    "caption": "Come out the back door of the cabin to the outdoor kitchen—perfect for grilling and cooking outside",
-    "aspectRatio": 1.4626579854461892
+    "caption": "Full kitchen image 6",
+    "aspectRatio": 1.7767653758542141
   },
   {
     "file": "assets/images/cabin/15.jpg",
-    "caption": "Dinning in the outdoor kitchen ",
-    "aspectRatio": 1.2809820732657833
+    "caption": "Full kitchen image 7",
+    "aspectRatio": 0.5628205128205128
   },
   {
     "file": "assets/images/cabin/16.jpg",
-    "caption": "Grill and fridge outside (the sink does not work at the moment)",
-    "aspectRatio": 1.3160476524176594
+    "caption": "Bedroom image 1",
+    "aspectRatio": 1.7767653758542141
   },
   {
     "file": "assets/images/cabin/17.jpg",
-    "caption": "If you're into it, we can also transform the outdoor space into your own personal night club!",
-    "aspectRatio": 1.352317880794702
+    "caption": "Bedroom image 2",
+    "aspectRatio": 1.7767653758542141
   },
   {
     "file": "assets/images/cabin/18.jpg",
-    "caption": "Laundry is available to guests through the bathroom at the back of the cabin",
-    "aspectRatio": 0.788681349316978
+    "caption": "Bedroom image 3",
+    "aspectRatio": 1.7767653758542141
   },
   {
     "file": "assets/images/cabin/19.jpg",
-    "caption": "Exterior image 1",
-    "aspectRatio": 1.3651099961404862
+    "caption": "Full bathroom image 1",
+    "aspectRatio": 1.7767653758542141
   },
   {
     "file": "assets/images/cabin/20.jpg",
-    "caption": "Exterior image 2",
-    "aspectRatio": 1.414418042690294
+    "caption": "Full bathroom image 2",
+    "aspectRatio": 0.5628205128205128
   },
   {
     "file": "assets/images/cabin/21.jpg",
-    "caption": "We get some snow from time to time! When we do, getting up the driveway can be tricky. But it doesn't usually stick for long.",
-    "aspectRatio": 1.4571738344777738
+    "caption": "Full bathroom image 3",
+    "aspectRatio": 0.5628205128205128
   },
   {
     "file": "assets/images/cabin/22.jpg",
-    "caption": "Soak in the hot tub by day or by night under the stars.",
-    "aspectRatio": 1.3333333333333333
+    "caption": "Full bathroom image 4",
+    "aspectRatio": 1.7777117384843981
   },
   {
     "file": "assets/images/cabin/23.jpg",
-    "caption": "We helped a couple with a maternity photoshoot (ala iPhone) on the property.",
-    "aspectRatio": 1
+    "caption": "Full bathroom image 5",
+    "aspectRatio": 1.777810915597972
   },
   {
     "file": "assets/images/cabin/24.jpg",
-    "caption": "A birds-eye view",
-    "aspectRatio": 1.3334489937543372
+    "caption": "Laundry area image 1",
+    "aspectRatio": 1.7767653758542141
+  },
+  {
+    "file": "assets/images/cabin/25.jpg",
+    "caption": "Exterior image 1",
+    "aspectRatio": 1.7767653758542141
+  },
+  {
+    "file": "assets/images/cabin/26.jpg",
+    "caption": "Exterior image 2",
+    "aspectRatio": 1.7767653758542141
+  },
+  {
+    "file": "assets/images/cabin/27.jpg",
+    "caption": "Exterior image 3",
+    "aspectRatio": 1.7778102189781022
+  },
+  {
+    "file": "assets/images/cabin/28.jpg",
+    "caption": "Exterior image 4",
+    "aspectRatio": 1.7767653758542141
+  },
+  {
+    "file": "assets/images/cabin/29.jpg",
+    "caption": "Exterior image 5",
+    "aspectRatio": 1.7767653758542141
+  },
+  {
+    "file": "assets/images/cabin/30.jpg",
+    "caption": "Exterior image 6",
+    "aspectRatio": 1.7767653758542141
+  },
+  {
+    "file": "assets/images/cabin/31.jpg",
+    "caption": "Exterior image 7",
+    "aspectRatio": 1.7767653758542141
+  },
+  {
+    "file": "assets/images/cabin/32.jpg",
+    "caption": "Exterior image 8",
+    "aspectRatio": 1.777810650887574
+  },
+  {
+    "file": "assets/images/cabin/33.jpg",
+    "caption": "Exterior image 9",
+    "aspectRatio": 1.7767653758542141
+  },
+  {
+    "file": "assets/images/cabin/34.jpg",
+    "caption": "Hot tub image 1",
+    "aspectRatio": 1.7767653758542141
+  },
+  {
+    "file": "assets/images/cabin/35.jpg",
+    "caption": "Hot tub image 2",
+    "aspectRatio": 1.7767653758542141
+  },
+  {
+    "file": "assets/images/cabin/36.jpg",
+    "caption": "Hot tub image 3",
+    "aspectRatio": 1.7767653758542141
   }
 ]

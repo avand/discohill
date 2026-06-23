@@ -1,20 +1,118 @@
 {
   "listingId": "846298531171766483",
-  "fetchedAt": "2026-04-29T18:28:48.237Z",
-  "count": 123,
+  "fetchedAt": "2026-06-23T23:17:47.742Z",
+  "count": 130,
   "reviews": [
+    {
+      "id": "1703946866877045015",
+      "createdAt": "2026-06-08T23:58:15Z",
+      "rating": 5,
+      "language": "en",
+      "comments": "We had such a lovely stay at Barn in Mariposa. The space was the perfect size for my husband and me — cozy, peaceful, and very comfortable. Everything felt thoughtfully set up, and we especially loved starting our mornings with coffee upstairs while looking out at the trees and surrounding nature. It was such a relaxing place to come back to after our days exploring Yosemite and the Mariposa area. Overall, we really enjoyed our stay and would absolutely recommend it to others looking for a quiet and charming getaway.",
+      "localizedDate": "2 weeks ago",
+      "response": "Christina, thank you so much for this thoughtful note — slow mornings with coffee and a tree view is exactly the kind of stay we love hearing about. So glad it felt peaceful and just right for the two of you. And thank you for the heads-up on the maintenance items — this is genuinely helpful and we're going to take care of all of it. You were wonderful guests and we'd love to have you back anytime!",
+      "reviewer": {
+        "firstName": "Christina",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/User/original/ea2cf579-23ff-4657-822d-010212ec57e1.jpeg",
+        "location": "Santa Monica, California"
+      }
+    },
+    {
+      "id": "1701758753967041814",
+      "createdAt": "2026-06-05T23:30:52Z",
+      "rating": 5,
+      "language": "en",
+      "comments": "Beautiful space for our few day getaway for our wedding! The place was everything we wanted and matched the descriptions perfectly. The location is so serene and felt very comfortable :)  10/10 would recommend!",
+      "localizedDate": "2 weeks ago",
+      "response": "Alexis, congratulations on your wedding! 🎉 It means so much that you chose Kaleidoscope Hill to celebrate such a special milestone. So glad the space delivered exactly what you were hoping for and that everything felt seamless. You were wonderful guests, and I hope this is the start of many happy adventures together. Come back and visit anytime — we would love to have you again!",
+      "reviewer": {
+        "firstName": "Alexis",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/User/original/e553a1c4-a10d-4223-9c3d-5223c918fbda.jpeg",
+        "location": "4 years on Airbnb"
+      }
+    },
+    {
+      "id": "1696666568505666910",
+      "createdAt": "2026-05-29T22:53:36Z",
+      "rating": 5,
+      "language": "en",
+      "comments": "Really great spot for some R&R and to unwind from it all! Avand’s spot feels remote and off the grid while still being close to Oakhurst and Mariposa and only about an hour from the Yosemite gates. The unit is well appointed, cozy, quiet, modern, and just what I was hoping to find. And the Art Box, with prints from local artists, was a cool addition! Can’t wait to be back.",
+      "localizedDate": "3 weeks ago",
+      "response": "Thank you, Harlan! So glad you found that balance of remote and accessible — that's exactly what we were going for. The Art Box is one of my favorite touches, so it always makes me happy when it lands. Can't wait to have you back!",
+      "reviewer": {
+        "firstName": "Harlan",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/a994a250-da7a-4c23-88dc-8d8b150f21ae.jpg",
+        "location": "Oakland, California"
+      }
+    },
+    {
+      "id": "1683571696124766880",
+      "createdAt": "2026-05-11T21:16:25Z",
+      "rating": 5,
+      "language": "en",
+      "comments": "Great location for our weekend trip to Yosemite! <br/>This is our second time staying here. Definitely recommend",
+      "localizedDate": "May 2026",
+      "response": null,
+      "reviewer": {
+        "firstName": "Marlene",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/99172304-356a-483a-95c2-785a384aa391.jpg",
+        "location": "Ontario, California"
+      }
+    },
+    {
+      "id": "1681371249377454671",
+      "createdAt": "2026-05-08T20:24:32Z",
+      "rating": 2,
+      "language": "en",
+      "comments": "Lots of really positive things about this unit as shared by other guests. Unfortunately, my allergies were so bad due to pet dander that we had to leave the unit early. This was my first time ever leaving a unit early. Avand was slow to respond and refused a refund. A real bummer to lose $250+ on a place I couldn’t stay. If you do not have pet allergies, the place is as advertised.",
+      "localizedDate": "May 2026",
+      "response": null,
+      "reviewer": {
+        "firstName": "Madeline",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/a53b207b-49f2-4e21-ade5-b1643f07299b.jpg",
+        "location": "California, United States"
+      }
+    },
+    {
+      "id": "1671944797146963151",
+      "createdAt": "2026-04-25T20:15:51Z",
+      "rating": 5,
+      "language": "en",
+      "comments": "Wonderful stay. Great amenities. Instructions were clear, and Avand was communicating proactively. would stay again!",
+      "localizedDate": "April 2026",
+      "response": null,
+      "reviewer": {
+        "firstName": "Zak",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/b8efd816-35e1-4887-882d-7a64901e2bee.jpg",
+        "location": "San Francisco, California"
+      }
+    },
+    {
+      "id": "1667668362998668134",
+      "createdAt": "2026-04-19T22:39:20Z",
+      "rating": 5,
+      "language": "en",
+      "comments": "The accommodation is located in a very quiet, rural area, offering a great opportunity to relax. It was easy to find, which made the arrival smooth and hassle-free. Everything was clean and well-maintained, contributing to an overall positive impression.<br/>One small downside, however, was the bedroom: the window and the door leading outside were not fully opaque. This made us feel a bit uncomfortable, as the level of privacy was somewhat limited.<br/>Overall, it’s a solid place to stay with some room for improvement regarding privacy.",
+      "localizedDate": "April 2026",
+      "response": null,
+      "reviewer": {
+        "firstName": "Efthimios",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/User/original/14c6732c-556c-491d-a561-439851661997.jpeg",
+        "location": "6 years on Airbnb"
+      }
+    },
     {
       "id": "1662592534517888684",
       "createdAt": "2026-04-12T22:34:34Z",
       "rating": 5,
       "language": "en",
       "comments": "Great place to stay for Yosemite! Clean and perfect for 2 people.",
-      "localizedDate": "2 weeks ago",
+      "localizedDate": "April 2026",
       "response": null,
       "reviewer": {
         "firstName": "Meili",
         "pictureUrl": "https://a0.muscache.com/im/pictures/user/User/original/06fec683-81f2-46a7-b67c-7a8336c58334.jpeg",
-        "location": "2 months on Airbnb"
+        "location": "4 months on Airbnb"
       }
     },
     {
@@ -23,7 +121,7 @@
       "rating": 5,
       "language": "en",
       "comments": "10/10! Avand is a great host, responsive and helpful. The location is beautiful, private & peaceful, surrounded by big trees & I loved listening to the birds chirping in the morning. The barn is spacious, clean, tidy & homey. The furnitures are cozy & everything you need is there. We had a wonderful stay & would stay again!",
-      "localizedDate": "3 weeks ago",
+      "localizedDate": "April 2026",
       "response": null,
       "reviewer": {
         "firstName": "Novel",
@@ -126,7 +224,7 @@
       "reviewer": {
         "firstName": "Divya",
         "pictureUrl": "https://a0.muscache.com/im/pictures/user/User/original/97e0bc9d-b7c1-4377-8684-215812326f55.jpeg",
-        "location": "6 months on Airbnb"
+        "location": "San Diego, California"
       }
     },
     {
@@ -294,7 +392,7 @@
       "reviewer": {
         "firstName": "Mujtaba",
         "pictureUrl": "https://a0.muscache.com/im/pictures/user/0dae0787-9b7c-4048-9923-1693d08fd437.jpg",
-        "location": "Dubai, United Arab Emirates"
+        "location": "9 years on Airbnb"
       }
     },
     {
@@ -308,7 +406,7 @@
       "reviewer": {
         "firstName": "Ishan",
         "pictureUrl": "https://a0.muscache.com/im/pictures/user/User/original/bd050848-3c77-4e9a-9d38-e927798fb645.jpeg",
-        "location": "9 months on Airbnb"
+        "location": "11 months on Airbnb"
       }
     },
     {
@@ -582,7 +680,7 @@
       "reviewer": {
         "firstName": "Mike",
         "pictureUrl": "https://a0.muscache.com/im/pictures/user/User/original/41d5b2ac-d744-4d6b-af3b-d13d75119afc.jpeg",
-        "location": "3 years on Airbnb"
+        "location": "4 years on Airbnb"
       }
     },
     {
@@ -638,7 +736,7 @@
       "reviewer": {
         "firstName": "Xavier",
         "pictureUrl": "https://a0.muscache.com/im/pictures/user/78bda692-19ae-4580-8890-7f9db4e940ba.jpg",
-        "location": "2 years on Airbnb"
+        "location": "3 years on Airbnb"
       }
     },
     {
@@ -856,7 +954,7 @@
       "reviewer": {
         "firstName": "Prasanna",
         "pictureUrl": "https://a0.muscache.com/im/pictures/user/User-106632283/original/65a6716b-bfd2-40a5-a036-88dcb6f1aba7.jpeg",
-        "location": "9 years on Airbnb"
+        "location": "10 years on Airbnb"
       }
     },
     {
@@ -1390,7 +1488,7 @@
       "reviewer": {
         "firstName": "Robert",
         "pictureUrl": "https://a0.muscache.com/im/pictures/user/User/original/f0e0de79-0142-41f0-be79-ffa9be74625d.jpeg",
-        "location": "Charlotte, North Carolina"
+        "location": "Asheville, North Carolina"
       }
     },
     {
@@ -1510,7 +1608,7 @@
       "reviewer": {
         "firstName": "Michel",
         "pictureUrl": "https://a0.muscache.com/im/pictures/user/User-163654912/original/f4588fc0-2e39-40c2-bd93-68ea2895eeca.jpeg",
-        "location": "8 years on Airbnb"
+        "location": "9 years on Airbnb"
       }
     },
     {

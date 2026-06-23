@@ -1,15 +1,113 @@
 {
   "listingId": "42230765",
-  "fetchedAt": "2026-04-29T18:28:35.563Z",
-  "count": 312,
+  "fetchedAt": "2026-06-23T23:17:39.226Z",
+  "count": 319,
   "reviews": [
+    {
+      "id": "1697340950985672265",
+      "createdAt": "2026-05-30T21:13:28Z",
+      "rating": 5,
+      "language": "en",
+      "comments": "Stay was great! Easy to get to, clean, had everything you could need during your stay. If or when we come back to Yosemite this will be our first stop in planning.",
+      "localizedDate": "3 weeks ago",
+      "response": "Thanks so much, Brian! Thrilled to hear it was easy and had everything you needed. We'd love to be your home base next time you're back at Yosemite — come back soon!",
+      "reviewer": {
+        "firstName": "Brian",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/User/original/6bde16f9-b251-4384-a649-e9be2a2a8677.jpeg",
+        "location": "4 months on Airbnb"
+      }
+    },
+    {
+      "id": "1695182570042839375",
+      "createdAt": "2026-05-27T21:45:09Z",
+      "rating": 5,
+      "language": "en",
+      "comments": "Charming cabin, perfect pre‑Yosemite stop<br/>As a local, I loved this little getaway. The cabin is adorable: live plants and the fresh scent of rosemary greet you, and thoughtful, artistic touches from the kitchen ceiling to the bedroom door, porch chairs, and window blinds and everywhere. I relaxed on the porch listening to birds, then soaked up sunshine in the hot tub. It felt so romantic I wished I’d brought a date. The owner stopped by to welcome me at check‑in, which was a lovely personal touch. Highly recommended for anyone heading to Yosemite or just needing a peaceful escape.",
+      "localizedDate": "3 weeks ago",
+      "response": "Thank you so much, My! Your review made my day — especially from a local! I love that you noticed all the little details, and I'm so glad you got to experience the porch and the hot tub. Next time, bring that date! You're welcome back anytime.",
+      "reviewer": {
+        "firstName": "My",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/User/original/abc25ec9-6aec-4e56-a1a4-3655e0a9deb9.jpeg",
+        "location": "Lake Arrowhead, California"
+      }
+    },
+    {
+      "id": "1684259300114260037",
+      "createdAt": "2026-05-12T20:02:34Z",
+      "rating": 5,
+      "language": "en",
+      "comments": "What a wonderful experience we’ve had while staying at this lovely cabin. They have clearly\r<br/>gone the extra many many miles to assure the cabin is so beautifully furnished, including \r<br/>absolutely every single thing one would need and appreciate! We retired a couple of years \r<br/>ago relocating from Austin TX to the mountains above Taos NM – our dream come true…. \r<br/>looks like the host found theirs as well and we are so fortunate they are sharing their \r<br/>exceptional space. As we are taking a month’s trip throughout California as first-timers, we \r<br/>are satisfying our bucket list adventures as we near our 50 years together. So extraordinary \r<br/>to be in this space – thankful this was a part of our excursions!!! Yosemite was even \r<br/>better than we had imagined it would be! Grateful, Terry & Grady (Taos NM)",
+      "localizedDate": "May 2026",
+      "response": null,
+      "reviewer": {
+        "firstName": "Terry",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/User/original/389f4e17-f7ce-445c-8db1-74c0dd83056a.jpeg",
+        "location": "Taos, New Mexico"
+      }
+    },
+    {
+      "id": "1681468088515026583",
+      "createdAt": "2026-05-08T23:36:56Z",
+      "rating": 5,
+      "language": "en",
+      "comments": "quiet and peaceful spot. can't beat the star gazing from the hot tub after a long hike in Yosemite parks. <br/>Avand and Connie were nice and responsive. felt at home.",
+      "localizedDate": "May 2026",
+      "response": null,
+      "reviewer": {
+        "firstName": "Romain",
+        "pictureUrl": "https://a0.muscache.com/im/users/4791438/profile_pic/1358971693/original.jpg",
+        "location": "13 years on Airbnb"
+      }
+    },
+    {
+      "id": "1677804335667639500",
+      "createdAt": "2026-05-03T22:17:42Z",
+      "rating": 5,
+      "language": "en",
+      "comments": "This was the perfect home base for 2 people for a few days exploring Yosemite. It was well equipped with everything we needed, including a full kitchen to cook meals for our whole trip. Plenty of space and amenities both indoors and outdoors for relaxing on our recovery day between hiking, including the hot tub, board games, and a local hard cider place we found just down the road. Avand was proactive and reached out to let us know about a road closure into Yosemite and alternate routes we could take. We would definitely return for our next Yosemite trip!",
+      "localizedDate": "May 2026",
+      "response": null,
+      "reviewer": {
+        "firstName": "Laura",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/c28362f5-c94e-465b-87a4-c880d6071183.jpg",
+        "location": "Mountain View, California"
+      }
+    },
+    {
+      "id": "1674882515200103029",
+      "createdAt": "2026-04-29T21:32:34Z",
+      "rating": 5,
+      "language": "en",
+      "comments": "Avand's place was the perfect base for us for exploring Yosemite. It had all the amenities we needed and is situated in quiet, peaceful surroundings. After long days of hiking and exploring we appreciated having a comfortable place to return to.",
+      "localizedDate": "April 2026",
+      "response": null,
+      "reviewer": {
+        "firstName": "Rebekah",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/d40abb5d-6a50-4015-9f26-792cc97224f1.jpg",
+        "location": "Hillsborough, North Carolina"
+      }
+    },
+    {
+      "id": "1672035780768227242",
+      "createdAt": "2026-04-25T23:16:37Z",
+      "rating": 5,
+      "language": "en",
+      "comments": "Lovely spot!",
+      "localizedDate": "April 2026",
+      "response": null,
+      "reviewer": {
+        "firstName": "Daniella",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/User/original/8e6a7971-d7bd-48dd-aa47-1f243b49c983.jpeg",
+        "location": "5 years on Airbnb"
+      }
+    },
     {
       "id": "1662616711697025741",
       "createdAt": "2026-04-12T23:22:36Z",
       "rating": 5,
       "language": "en",
       "comments": "Beautiful place and would definitely stay again!",
-      "localizedDate": "2 weeks ago",
+      "localizedDate": "April 2026",
       "response": null,
       "reviewer": {
         "firstName": "Michael",
@@ -23,7 +121,7 @@
       "rating": 5,
       "language": "en",
       "comments": "Peaceful cozy feel. Home is nice and private. Avant and Connie were nice and helpful. The ambiance was perfect. Will definitely recommend and most definitely keep in mind. Thank you.",
-      "localizedDate": "2 weeks ago",
+      "localizedDate": "April 2026",
       "response": null,
       "reviewer": {
         "firstName": "Cecilia",
@@ -37,7 +135,7 @@
       "rating": 5,
       "language": "en",
       "comments": "Best Bang for buck! Nice private lodge with a great view of the stars",
-      "localizedDate": "3 weeks ago",
+      "localizedDate": "April 2026",
       "response": null,
       "reviewer": {
         "firstName": "Juancarlos",
@@ -51,7 +149,7 @@
       "rating": 5,
       "language": "en",
       "comments": "Amazing stay. The house is very cute and so well equipped. Super clean, it felt really like home. The hot tub was also very nice after a long day of hiking and super fun disco ball. The location is great, very near Mariposa town and 1h drive to Yosemite. We had a great time there and recommend it!",
-      "localizedDate": "3 weeks ago",
+      "localizedDate": "April 2026",
       "response": null,
       "reviewer": {
         "firstName": "Alice",
@@ -70,7 +168,7 @@
       "reviewer": {
         "firstName": "Andrew",
         "pictureUrl": "https://a0.muscache.com/im/pictures/user/User-489525417/original/12d25d91-ca20-4517-a627-2cd09f3fcc5c.jpeg",
-        "location": "3 years on Airbnb"
+        "location": "4 years on Airbnb"
       }
     },
     {
@@ -140,7 +238,7 @@
       "reviewer": {
         "firstName": "Daniel",
         "pictureUrl": "https://a0.muscache.com/im/pictures/user/User/original/398f590c-b76e-49ba-9a9d-736f30589cd9.jpeg",
-        "location": "2 months on Airbnb"
+        "location": "4 months on Airbnb"
       }
     },
     {
@@ -196,7 +294,7 @@
       "reviewer": {
         "firstName": "Alizabeth",
         "pictureUrl": "https://a0.muscache.com/im/pictures/user/User/original/f41dfb34-5943-444a-8437-624ca5f3f7c3.jpeg",
-        "location": "2 months on Airbnb"
+        "location": "4 months on Airbnb"
       }
     },
     {
@@ -266,7 +364,7 @@
       "reviewer": {
         "firstName": "Joseph",
         "pictureUrl": "https://a0.muscache.com/im/pictures/user/User/original/d6948fb5-8f16-44fb-8ffa-b7d4d4bad435.jpeg",
-        "location": "11 months on Airbnb"
+        "location": "1 year on Airbnb"
       }
     },
     {
@@ -364,7 +462,7 @@
       "reviewer": {
         "firstName": "Tracy",
         "pictureUrl": "https://a0.muscache.com/im/pictures/user/81ffb1c4-c42c-441a-b98e-db00404ed68e.jpg",
-        "location": "1 year on Airbnb"
+        "location": "2 years on Airbnb"
       }
     },
     {
@@ -840,7 +938,7 @@
       "reviewer": {
         "firstName": "Megan",
         "pictureUrl": "https://a0.muscache.com/im/pictures/user/User-162390402/original/492328de-35f8-4bd8-8763-3e214e8c61bf.jpeg",
-        "location": "8 years on Airbnb"
+        "location": "9 years on Airbnb"
       }
     },
     {
@@ -854,7 +952,7 @@
       "reviewer": {
         "firstName": "Sanchez",
         "pictureUrl": "https://a0.muscache.com/im/pictures/user/User/original/cf1bf01f-f920-4d83-9490-7218499b4544.jpeg",
-        "location": "1 year on Airbnb"
+        "location": "2 years on Airbnb"
       }
     },
     {
@@ -910,7 +1008,7 @@
       "reviewer": {
         "firstName": "Christian",
         "pictureUrl": "https://a0.muscache.com/im/pictures/user/User/original/937ddf60-fa13-4174-8388-9ff74f0e3dc7.jpeg",
-        "location": "1 year on Airbnb"
+        "location": "2 years on Airbnb"
       }
     },
     {
@@ -994,7 +1092,7 @@
       "reviewer": {
         "firstName": "Anujah",
         "pictureUrl": "https://a0.muscache.com/im/pictures/user/ce4fadd8-94bb-4bc3-a3c6-d8df616cd234.jpg",
-        "location": "11 years on Airbnb"
+        "location": "12 years on Airbnb"
       }
     },
     {
@@ -1452,7 +1550,7 @@
       "reviewer": {
         "firstName": "Andersen",
         "pictureUrl": "https://a0.muscache.com/im/pictures/user/5c3cf64b-4e83-41d3-befd-bd3e3c73b07a.jpg",
-        "location": "10 years on Airbnb"
+        "location": "11 years on Airbnb"
       }
     },
     {
@@ -1466,7 +1564,7 @@
       "reviewer": {
         "firstName": "Leanne",
         "pictureUrl": "https://a0.muscache.com/im/pictures/user/a5d3df5b-1679-4dd3-8c00-2940c9499c08.jpg",
-        "location": "8 years on Airbnb"
+        "location": "9 years on Airbnb"
       }
     },
     {
@@ -1508,7 +1606,7 @@
       "reviewer": {
         "firstName": "Dave",
         "pictureUrl": "https://a0.muscache.com/im/pictures/user/d5d96f56-9c98-4a24-9444-d6fb32676d58.jpg",
-        "location": "4 years on Airbnb"
+        "location": "5 years on Airbnb"
       }
     },
     {
@@ -2062,7 +2160,7 @@
       "reviewer": {
         "firstName": "Kai",
         "pictureUrl": "https://a0.muscache.com/im/pictures/user/a341b061-3efc-4ca5-84dc-2e070d305c25.jpg",
-        "location": "8 years on Airbnb"
+        "location": "9 years on Airbnb"
       }
     },
     {
@@ -2368,7 +2466,7 @@
       "localizedDate": "February 2023",
       "response": null,
       "reviewer": {
-        "firstName": "Jil",
+        "firstName": "Kristen Deanna",
         "pictureUrl": "https://a0.muscache.com/im/pictures/user/09534f0f-ecba-4b5e-84a3-666337df8366.jpg",
         "location": "Caldwell, Idaho"
       }
@@ -2411,7 +2509,7 @@
       "response": null,
       "reviewer": {
         "firstName": "Lucia",
-        "pictureUrl": "https://a0.muscache.com/im/users/25461195/profile_pic/1420177367/original.jpg",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/User/original/74f4c53c-d89f-4e04-8855-762032142124.jpeg",
         "location": "Oakland, California"
       }
     },
@@ -3184,7 +3282,7 @@
       "reviewer": {
         "firstName": "Clay",
         "pictureUrl": "https://a0.muscache.com/im/pictures/user/8ef7235b-673e-47c4-a658-09f6a037743d.jpg",
-        "location": "4 years on Airbnb"
+        "location": "5 years on Airbnb"
       }
     },
     {
@@ -3407,7 +3505,7 @@
       "response": null,
       "reviewer": {
         "firstName": "Tim",
-        "pictureUrl": "https://a0.muscache.com/im/pictures/user/User-39561430/original/7cb40875-0b49-4246-a21e-6e0d137d926e.jpeg",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/User/original/2d45bce7-d0d0-40de-8d9c-6a59dbed28ee.jpeg",
         "location": "Los Angeles, California"
       }
     },
@@ -3506,7 +3604,7 @@
       "reviewer": {
         "firstName": "Megan",
         "pictureUrl": "https://a0.muscache.com/im/pictures/user/12284442-f4eb-4bd6-9d66-3d6a57ac405d.jpg",
-        "location": "6 years on Airbnb"
+        "location": "7 years on Airbnb"
       }
     },
     {
@@ -4163,7 +4261,7 @@
       "response": null,
       "reviewer": {
         "firstName": "John",
-        "pictureUrl": "https://a0.muscache.com/im/pictures/user/8cfaed4b-5cb3-4852-8e67-c00fdc732892.jpg",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/User/original/4a7c052d-f35a-4b15-83c1-3b0df5378b21.jpeg",
         "location": "Gorham, Maine"
       }
     },
