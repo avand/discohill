@@ -157,7 +157,7 @@ hr {
 .home__subtitle {
   font-size: 18px;
   color: var(--text-subtle);
-  max-width: 560px;
+  max-width: 580px;
   margin: 0 auto 56px;
 }
 
@@ -290,6 +290,10 @@ hr {
   gap: 8px;
   border-radius: var(--radius-lg);
   overflow: hidden;
+  /* A definite width is required — otherwise aspect-ratio + max-height shrink
+     the gallery's width down to (max-height x 16/9) instead of filling the
+     .listing content box. */
+  width: 100%;
   margin-bottom: 32px;
   aspect-ratio: 16 / 9;
   max-height: 540px;

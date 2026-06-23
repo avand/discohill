@@ -34,6 +34,31 @@ const HOMEPAGE_META = {
   barn: "1 bedroom · 2 baths",
 };
 
+// Hand-picked "main" photos shown (in order) as the gallery hero + first thumbs.
+// The rest follow in their original order. Keeps gallery and modal indices aligned.
+// The homepage card for each listing also uses the first entry as its photo.
+const FEATURED_PHOTOS = {
+  cabin: [
+    "assets/images/cabin/25.jpg",
+    "assets/images/cabin/01.jpg",
+    "assets/images/cabin/36.jpg",
+    "assets/images/cabin/16.jpg",
+    "assets/images/cabin/28.jpg",
+  ],
+  barn: [
+    "assets/images/barn/03.jpg",
+    "assets/images/barn/13.jpg",
+    "assets/images/barn/09.jpg",
+    "assets/images/barn/25.jpg",
+    "assets/images/barn/33.jpg",
+  ],
+};
+
+// The first photo shown for a listing (gallery hero + homepage card).
+function heroPhoto(slug) {
+  return FEATURED_PHOTOS[slug]?.[0] || `assets/images/${slug}/01.jpg`;
+}
+
 // Map Airbnb amenity icon tokens to emoji. Anything not mapped falls back to ✓.
 // This is a friendly visual cue, not a 1:1 reproduction of Airbnb's icon set.
 const AMENITY_ICONS = {
@@ -513,11 +538,24 @@ async function buildListing(slug) {
     await fs.readFile(path.join(DATA_DIR, `${slug}-photos.json`), "utf8"),
   );
 
+  const featured = FEATURED_PHOTOS[slug];
+  const photos = featured
+    ? [
+        ...featured.map((f) => photosFile.find((p) => p.file === f)).filter(Boolean),
+        ...photosFile.filter((p) => !featured.includes(p.file)),
+      ]
+    : photosFile;
+
   const label = PROPERTY_LABEL[slug];
   const titleName = slug.charAt(0).toUpperCase() + slug.slice(1);
   const pageTitle = `${titleName} on Kaleidoscope Hill, in the Sierra Foothills of Mariposa, CA`;
   const description = htmlToText(data.description?.[0]?.html || "").slice(0, 200);
-  const ogImage = `/${photosFile[0]?.file || "assets/images/logo.png"}`;
+  const OG_IMAGE_OVERRIDE = {
+    cabin: "/assets/images/cabin/25.jpg",
+    barn: "/assets/images/barn/03.jpg",
+  };
+  const ogImage =
+    OG_IMAGE_OVERRIDE[slug] || `/${photos[0]?.file || "assets/images/logo.png"}`;
 
   const html = `${renderHead({
     title: pageTitle,
@@ -535,7 +573,7 @@ ${renderHeader()}
     <span class="dot">·</span>
     <span>${escapeHtml(data.location || "Mariposa, California")}</span>
   </div>
-  ${renderGallery(slug, photosFile, label)}
+  ${renderGallery(slug, photos, label)}
   <div class="listing__body">
     <div class="listing__main">
       <section>
@@ -549,7 +587,7 @@ ${renderHeader()}
     </div>
     ${renderBookCard(data)}
   </div>
-  ${renderPhotosModal(photosFile, label)}
+  ${renderPhotosModal(photos, label)}
 </main>
 ${renderMobileBookBar(data)}
 ${renderFooter()}
@@ -591,7 +629,7 @@ async function buildHomepage() {
   <link rel="canonical" href="https://discohill.com/" />
   <meta property="og:title" content="Kaleidoscope Hill" />
   <meta property="og:description" content="Two private retreats near Yosemite — book the Cabin or the Barn." />
-  <meta property="og:image" content="/assets/images/cabin/01.jpg" />
+  <meta property="og:image" content="/assets/images/cabin/25.jpg" />
   <meta property="og:type" content="website" />
 </head>
 <body>
@@ -599,15 +637,15 @@ async function buildHomepage() {
     <img class="home__logo" src="/assets/images/logo.png" alt="Kaleidoscope Hill logo" />
     <h1 class="home__title">Kaleidoscope Hill</h1>
     <p class="home__subtitle">
-      Two private stays in the Sierra Foothills of Mariposa, California &mdash;
-      about an hour from the West &amp; South entrances of Yosemite National Park.
+      Two private stays nestled in the Sierra foothills of Mariposa, CA, about an
+      hour from both West &amp; South gates of Yosemite National Park.
     </p>
 
     <div class="home__choices">
       ${cards
         .map(
           (c) => `<a class="home__card" href="/${c.slug}/">
-        <img class="home__card-photo" src="/assets/images/${c.slug}/01.jpg" alt="${escapeHtml(c.label)} at Kaleidoscope Hill" loading="lazy" />
+        <img class="home__card-photo" src="/${heroPhoto(c.slug)}" alt="${escapeHtml(c.label)} at Kaleidoscope Hill" loading="lazy" />
         <div class="home__card-body">
           <h2 class="home__card-name">${escapeHtml(c.label)}</h2>
           <p class="home__card-meta">
