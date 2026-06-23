@@ -514,8 +514,8 @@ async function buildListing(slug) {
   );
 
   const label = PROPERTY_LABEL[slug];
-  const titleSuffix = `Kaleidoscope Hill · Mariposa, CA`;
-  const pageTitle = `${label} — ${titleSuffix}`;
+  const titleName = slug.charAt(0).toUpperCase() + slug.slice(1);
+  const pageTitle = `${titleName} on Kaleidoscope Hill, in the Sierra Foothills of Mariposa, CA`;
   const description = htmlToText(data.description?.[0]?.html || "").slice(0, 200);
   const ogImage = `/${photosFile[0]?.file || "assets/images/logo.png"}`;
 
@@ -583,7 +583,7 @@ async function buildHomepage() {
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Kaleidoscope Hill — Cabin & Barn near Yosemite, Mariposa CA</title>
+  <title>Kaleidoscope Hill: Two Private Stays in the Sierra Foothills of Mariposa, CA</title>
   <meta name="description" content="A cabin and a barn on Kaleidoscope Hill in Mariposa, California — about an hour from Yosemite National Park. Two private retreats, both available on Airbnb." />
   <link rel="icon" href="/assets/images/logo.png" type="image/png" />
   <link rel="apple-touch-icon" href="/assets/images/logo.png" />
