@@ -627,7 +627,7 @@ async function buildHomepage() {
   <link rel="apple-touch-icon" href="/assets/images/logo.png" />
   <link rel="stylesheet" href="/assets/css/site.css" />
   <link rel="canonical" href="https://discohill.com/" />
-  <meta property="og:title" content="Kaleidoscope Hill" />
+  <meta property="og:title" content="Two Private Stays in the Sierra Foothills of Mariposa, CA" />
   <meta property="og:description" content="Two private retreats near Yosemite — book the Cabin or the Barn." />
   <meta property="og:image" content="/assets/images/cabin/25.jpg" />
   <meta property="og:type" content="website" />
